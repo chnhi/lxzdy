@@ -1,1 +1,0 @@
-import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"鸣谢","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/index.md","filePath":"ccc/index.md"}`),a={name:`ccc/index.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",163)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};
