@@ -1,0 +1,1 @@
+import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"家电","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/生活/家电.md","filePath":"ccc/生活/家电.md"}`),a={name:`ccc/生活/家电.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",16)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

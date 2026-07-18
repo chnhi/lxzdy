@@ -1,0 +1,1 @@
+import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"显示器分享","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/电脑/显示器.md","filePath":"ccc/电脑/显示器.md"}`),a={name:`ccc/电脑/显示器.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",54)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

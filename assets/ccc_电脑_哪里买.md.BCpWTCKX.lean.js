@@ -1,0 +1,1 @@
+import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"哪里买？","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/电脑/哪里买.md","filePath":"ccc/电脑/哪里买.md"}`),a={name:`ccc/电脑/哪里买.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",46)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};
