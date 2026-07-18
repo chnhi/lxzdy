@@ -1,0 +1,1 @@
+import{V as e,et as t,mt as n,tt as r}from"./chunks/framework.DpI_zlPE.js";var i=JSON.parse(`{"title":"眼镜","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/生活/眼镜.md","filePath":"ccc/生活/眼镜.md"}`),a={name:`ccc/生活/眼镜.md`};function o(e,i,a,o,s,c){return n(),t(`div`,null,[...i[0]||=[r("",233)]])}var s=e(a,[[`render`,o]]);export{i as __pageData,s as default};

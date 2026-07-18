@@ -1,1 +1,0 @@
-import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"手机","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/无线路由器/手机.md","filePath":"ccc/无线路由器/手机.md"}`),a={name:`ccc/无线路由器/手机.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",15)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

@@ -1,0 +1,1 @@
+import{V as e,et as t,mt as n,tt as r}from"./chunks/framework.DpI_zlPE.js";var i=JSON.parse(`{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/键政.md","filePath":"ccc/键政.md"}`),a={name:`ccc/键政.md`};function o(e,i,a,o,s,c){return n(),t(`div`,null,[...i[0]||=[r("",22)]])}var s=e(a,[[`render`,o]]);export{i as __pageData,s as default};

@@ -1,1 +1,0 @@
-import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"灯具","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/生活/灯具.md","filePath":"ccc/生活/灯具.md"}`),a={name:`ccc/生活/灯具.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",39)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

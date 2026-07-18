@@ -1,1 +1,0 @@
-import{$ as e,A as t,B as n}from"./chunks/framework.6NwDR3kH.js";var r=JSON.parse(`{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/色彩管理/扫描仪.md","filePath":"ccc/色彩管理/扫描仪.md"}`),i={name:`ccc/色彩管理/扫描仪.md`};function a(t,r,i,a,o,s){return e(),n(`div`)}var o=t(i,[[`render`,a]]);export{r as __pageData,o as default};

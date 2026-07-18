@@ -1,1 +1,0 @@
-import{$ as e,A as t,B as n,V as r}from"./chunks/framework.6NwDR3kH.js";var i=JSON.parse(`{"title":"飞机杯","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/飞机杯.md","filePath":"ccc/飞机杯.md"}`),a={name:`ccc/飞机杯.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",100)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

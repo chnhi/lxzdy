@@ -1,0 +1,1 @@
+import{V as e,et as t,mt as n,tt as r}from"./chunks/framework.DpI_zlPE.js";var i=JSON.parse(`{"title":"飞机杯","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/飞机杯.md","filePath":"ccc/飞机杯.md"}`),a={name:`ccc/飞机杯.md`};function o(e,i,a,o,s,c){return n(),t(`div`,null,[...i[0]||=[r("",100)]])}var s=e(a,[[`render`,o]]);export{i as __pageData,s as default};
