@@ -1,0 +1,1 @@
+import{V as e,et as t,mt as n,tt as r}from"./chunks/framework.DpI_zlPE.js";var i=JSON.parse(`{"title":"AI","description":"","frontmatter":{},"headers":[],"relativePath":"ccc/AI.md","filePath":"ccc/AI.md"}`),a={name:`ccc/AI.md`};function o(e,i,a,o,s,c){return n(),t(`div`,null,[...i[0]||=[r("",9)]])}var s=e(a,[[`render`,o]]);export{i as __pageData,s as default};
